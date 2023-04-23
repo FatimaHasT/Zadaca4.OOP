@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2194a44-143c-431a-a9c9-8d23c660e551" name="Changes" comment="" />
+    <list default="true" id="f2194a44-143c-431a-a9c9-8d23c660e551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/MainTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Pegasus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task1/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FatimaHasT/qamp/zadaci/zadaca8/task2/MainTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
