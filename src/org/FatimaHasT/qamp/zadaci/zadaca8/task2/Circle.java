@@ -1,7 +1,7 @@
 package org.FatimaHasT.qamp.zadaci.zadaca8.task2;
 
 public class Circle extends Shape {
-    final double radius;
+    public double radius;
 
     public Circle(String colour, double radius) {
         super(colour);

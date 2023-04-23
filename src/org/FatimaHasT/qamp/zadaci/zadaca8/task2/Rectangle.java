@@ -1,8 +1,8 @@
 package org.FatimaHasT.qamp.zadaci.zadaca8.task2;
 
 public class Rectangle extends Shape {
-    final double a;
-    final double b;
+    public double a;
+    public double b;
 
     public Rectangle(String colour, double a, double b) {
         super(colour);
